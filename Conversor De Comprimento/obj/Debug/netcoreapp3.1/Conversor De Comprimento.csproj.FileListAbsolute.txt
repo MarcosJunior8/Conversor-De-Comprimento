@@ -1,0 +1,11 @@
+C:\Users\Marcos\source\repos\Conversor De Comprimento\Conversor De Comprimento\bin\Debug\netcoreapp3.1\Conversor De Comprimento.exe
+C:\Users\Marcos\source\repos\Conversor De Comprimento\Conversor De Comprimento\bin\Debug\netcoreapp3.1\Conversor De Comprimento.deps.json
+C:\Users\Marcos\source\repos\Conversor De Comprimento\Conversor De Comprimento\bin\Debug\netcoreapp3.1\Conversor De Comprimento.runtimeconfig.json
+C:\Users\Marcos\source\repos\Conversor De Comprimento\Conversor De Comprimento\bin\Debug\netcoreapp3.1\Conversor De Comprimento.runtimeconfig.dev.json
+C:\Users\Marcos\source\repos\Conversor De Comprimento\Conversor De Comprimento\bin\Debug\netcoreapp3.1\Conversor De Comprimento.dll
+C:\Users\Marcos\source\repos\Conversor De Comprimento\Conversor De Comprimento\bin\Debug\netcoreapp3.1\Conversor De Comprimento.pdb
+C:\Users\Marcos\source\repos\Conversor De Comprimento\Conversor De Comprimento\obj\Debug\netcoreapp3.1\Conversor De Comprimento.csprojAssemblyReference.cache
+C:\Users\Marcos\source\repos\Conversor De Comprimento\Conversor De Comprimento\obj\Debug\netcoreapp3.1\Conversor De Comprimento.AssemblyInfoInputs.cache
+C:\Users\Marcos\source\repos\Conversor De Comprimento\Conversor De Comprimento\obj\Debug\netcoreapp3.1\Conversor De Comprimento.AssemblyInfo.cs
+C:\Users\Marcos\source\repos\Conversor De Comprimento\Conversor De Comprimento\obj\Debug\netcoreapp3.1\Conversor De Comprimento.dll
+C:\Users\Marcos\source\repos\Conversor De Comprimento\Conversor De Comprimento\obj\Debug\netcoreapp3.1\Conversor De Comprimento.pdb
